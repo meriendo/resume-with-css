@@ -41,13 +41,14 @@ div{
 
 
 .introd blockquote{
-	padding-top: 2px;
-	padding-bottom: 2px;
-	padding-left: 3px;
-	padding-right: 3px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 7px;
+	padding-right: 7px;
 	background-color: #e0c1c4;
 	font-size: 22px;
 	font-family: Verdana;
+	border: 5px solid #e0caca;
 		 }
 
 .introd table{
@@ -57,7 +58,7 @@ div{
 			 }
 
 .introd img{
-  border: 5px solid #bd9693;
+  border: 5px solid #e0caca;
 		   }
 
 
