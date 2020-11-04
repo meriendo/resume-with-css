@@ -41,10 +41,12 @@ div{
 
 
 .introd blockquote{
-	
-	margins: 4px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 3px;
+	padding-right: 3px;
 	background-color: #e0c1c4;
-	font-size: 23px;
+	font-size: 22px;
 	font-family: Verdana;
 		 }
 
@@ -63,7 +65,7 @@ div{
   background-color: #f5dcda;
   text-align: center;
   height: 180px;
-  column-width: 50px;
+  column-width: 60px;
 		  }
 
 
@@ -94,7 +96,7 @@ hr  {
 
 	   }
 
-.table2div div{
+.table2div{
 	align-content: center;
 	padding-left: 100px;
 	padding-right: 100px;
