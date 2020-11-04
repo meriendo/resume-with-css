@@ -81,9 +81,14 @@ hr  {
 
 	   }
 
-#table2div{
+.table2div{
 	align-content: center;
 		  }
+
+.table2div a:hover{
+	background-color: #eba7a7;
+  	color: black;
+	}
 
 #table2{
 
