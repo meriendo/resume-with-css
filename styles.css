@@ -173,4 +173,10 @@ hr  {
   display: none;
 			  }
 
+.btlink a{
+	color: #6e302b;
+}
 
+.btlink a:hover {
+  color: white;
+				}
