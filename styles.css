@@ -21,8 +21,8 @@ p   {
 
 div{
 	font-size: 20px;
-	padding-left: 100px;
-	padding-right: 100px;
+	padding-left: 20%;
+	padding-right: 20%;
 	}
 
 .introd h3{
@@ -30,6 +30,10 @@ div{
 	font-size: 34px;
 		  }
 .introd div{
+	background-color: #000000;
+}
+
+.introd p{
 	background-color: #000000;
 }
 
@@ -91,7 +95,7 @@ hr  {
 	align-content: center;
 		  }
 
-.table2div a:hover{
+.table2div figcaption:hover{
 	background-color: #eba7a7;
   	color: black;
 	}
