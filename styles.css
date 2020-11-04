@@ -94,9 +94,14 @@ hr  {
 
 	   }
 
-.table2div{
+.table2div div{
 	align-content: center;
+	padding-left: 100px;
+	padding-right: 100px;
 		  }
+.table2div a{
+	color: black;
+}
 
 .table2div figcaption:hover{
 	background-color: #eba7a7;
