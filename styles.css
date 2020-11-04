@@ -29,14 +29,16 @@ div{
 	font-family: Verdana;
 	font-size: 34px;
 		  }
-.introd blockquote{
 
+.introd blockquote{
+	
+	background-color: #e0c1c4;
 	font-size: 23px;
 	font-family: Verdana;
 		 }
 
 .introd table{
-	background-color: #e0c1c4;
+	background-color: #000000;
 	color: black;
 	font-size: 28px;
 			 }
