@@ -106,7 +106,7 @@ hr  {
 	color: black;
 }
 
-.table2div figcaption:hover{
+.table2div a:hover{
 	background-color: #eba7a7;
   	color: black;
 	}
