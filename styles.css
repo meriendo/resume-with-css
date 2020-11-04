@@ -21,8 +21,8 @@ p   {
 
 div{
 	font-size: 20px;
-	padding-left: 20%;
-	padding-right: 20%;
+	padding-left: 14%;
+	padding-right: 14%;
 	}
 
 .introd h3{
@@ -31,6 +31,8 @@ div{
 		  }
 .introd div{
 	background-color: #000000;
+	padding-left: 70px;
+	padding-right: 70px;
 }
 
 .introd p{
@@ -40,6 +42,7 @@ div{
 
 .introd blockquote{
 	
+	padding: 4px;
 	background-color: #e0c1c4;
 	font-size: 23px;
 	font-family: Verdana;
@@ -106,8 +109,9 @@ hr  {
 	align-content: center;
 	text-align: center;
 	width: 60%;
-    border: 3px solid;
-    border-color: white;
+    	border: 3px solid;
+    	border-color: white;
+	background-color: #e0c1c4;
 	   }
 
 .links a{
