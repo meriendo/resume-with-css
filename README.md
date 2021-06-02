@@ -1,3 +1,3 @@
 # csspart
 
-the document along with a css file
+active on https://meriendo.github.io/resume-with-css/
